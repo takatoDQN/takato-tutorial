@@ -1,2 +1,2 @@
 print('ahahaha')
-print('fafafafa-master-edit')
+print('fafafafa-python-edit')
